@@ -105,6 +105,12 @@ section h2 {
     margin-bottom: 20px;
 }
 
+/* Contact section styling */
+.contact {
+    background: #f4f4f4;
+    padding: 20px;
+}
+
 /* Footer styling */
 footer {
     background: #333;
